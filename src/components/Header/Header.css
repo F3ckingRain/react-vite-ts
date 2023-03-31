@@ -1,0 +1,5 @@
+.header {
+  min-height: 50px;
+  background-color: #2a2d2a;
+  box-shadow: 0 2px 2px rgba(49, 50, 56, 0.8);
+}
